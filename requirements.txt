@@ -1,0 +1,9 @@
+tensorflow
+transformers
+datasets
+nltk
+spacy
+pandas
+numpy
+scikit-learn
+optuna
